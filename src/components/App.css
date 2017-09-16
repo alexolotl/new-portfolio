@@ -1,0 +1,21 @@
+.App h1 {
+  font-family: "Helvetica Neue";
+  font-size: 3em;
+  color: transparent;
+  -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: white;
+   padding: 5px 10px;
+   border: 1px solid white;
+   box-sizing: border-box;
+   line-height: 1;
+   margin: 10px;
+   letter-spacing: 2px;
+}
+
+.App-header {
+  position: fixed;
+}
+
+.App {
+  background-color: black;
+}
